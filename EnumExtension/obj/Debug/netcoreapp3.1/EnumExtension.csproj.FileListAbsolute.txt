@@ -1,0 +1,13 @@
+E:\程式練習\EnumExtension\EnumExtension\obj\Debug\netcoreapp3.1\EnumExtension.csprojAssemblyReference.cache
+E:\程式練習\EnumExtension\EnumExtension\obj\Debug\netcoreapp3.1\EnumExtension.csproj.CoreCompileInputs.cache
+E:\程式練習\EnumExtension\EnumExtension\obj\Debug\netcoreapp3.1\EnumExtension.AssemblyInfoInputs.cache
+E:\程式練習\EnumExtension\EnumExtension\obj\Debug\netcoreapp3.1\EnumExtension.AssemblyInfo.cs
+E:\程式練習\EnumExtension\EnumExtension\bin\Debug\netcoreapp3.1\EnumExtension.exe
+E:\程式練習\EnumExtension\EnumExtension\bin\Debug\netcoreapp3.1\EnumExtension.deps.json
+E:\程式練習\EnumExtension\EnumExtension\bin\Debug\netcoreapp3.1\EnumExtension.runtimeconfig.json
+E:\程式練習\EnumExtension\EnumExtension\bin\Debug\netcoreapp3.1\EnumExtension.runtimeconfig.dev.json
+E:\程式練習\EnumExtension\EnumExtension\bin\Debug\netcoreapp3.1\EnumExtension.dll
+E:\程式練習\EnumExtension\EnumExtension\bin\Debug\netcoreapp3.1\EnumExtension.pdb
+E:\程式練習\EnumExtension\EnumExtension\obj\Debug\netcoreapp3.1\EnumExtension.dll
+E:\程式練習\EnumExtension\EnumExtension\obj\Debug\netcoreapp3.1\EnumExtension.pdb
+E:\程式練習\EnumExtension\EnumExtension\obj\Debug\netcoreapp3.1\EnumExtension.genruntimeconfig.cache
