@@ -1,2 +1,2 @@
 # EnumExtension_EnumNameToDescription
-練習實自Enum轉Description
+練習實作Enum轉Description
